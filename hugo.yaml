@@ -77,8 +77,8 @@ params:
     Content: Bienvenue sur mon blog, un simple carnet de notes techniques concernant la [géomatique](https://fr.wikipedia.org/wiki/G%C3%A9omatique) et les logiciels libres. Il est écrit en [Markdown](https://fr.wikipedia.org/wiki/Markdown), avec le générateur de site [Hugo](https://gohugo.io/) et le thème [PaperMod](https://github.com/adityatelange/hugo-PaperMod/).
 
   socialIcons:
-    - name: Bluesky
-      url: "https://bsky.app/profile/ggeo.fr"
+#    - name: Bluesky
+#      url: "https://bsky.app/profile/ggeo.fr"
 #    - name: stackoverflow
 #      url: "https://stackoverflow.com"
     - name: github
