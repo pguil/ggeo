@@ -247,7 +247,7 @@ Permet la connexion directe au serveur ODK Central. Paramétrer le plugin en sp�
 
 ### QRealTime
 
-Permet la synchronisation directe d'une couche SIG QGis au serveur ODK Central ou à KoboToolBox.
+Permet la synchronisation directe d'une couche SIG QGis au serveur ODK Central ou à KoboToolBox. Mais je n'ai pas réussi à me connecter à mon instance.
 
 ## KoboToolBox
 La plateforme commerciale [KoboToolbox](https://www.kobotoolbox.org/) regroupe un agrégateur compatible ODK et les outils de gestion, visualisation, de traitement et d'export des soumissions. Les mêmes formulaires Excel peuvent être utilisés comme modèles. La version gratuite permet de traiter jusqu'à 5000 soumissions par mois. Ce peut être une alternative à ODK Central pour ceux qui ne veulent pas faire d'auto-hébergement.
